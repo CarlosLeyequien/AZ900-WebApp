@@ -1,4 +1,4 @@
-# AZ900-Challenge-4
+# AZ900-Practice-4-Challenge-2
 The 4th challenge, creating a web app
 
 Select subscription, resource group and name it
